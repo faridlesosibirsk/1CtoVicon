@@ -12,9 +12,9 @@ https://www.python.org/downloads/
 
 1CtoVicon.py
 
-template_abiturs.xlsx
+template_abiturs.xlsx (скачать шаблон с сайта vikon)
 
-Прием на обучение на бакалавриат-специалитет 2021 (ЛФ).xlsx
+Прием на обучение на бакалавриат-специалитет 2021 (ЛФ).xlsx (импортировать из 1С)
 
 # Использование
 
