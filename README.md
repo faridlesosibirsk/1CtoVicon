@@ -19,3 +19,7 @@ template_abiturs.xlsx (скачать шаблон с сайта vikon)
 # Использование
 
 > python 1CtoVicon.py
+
+# install from test.pypi.org
+
+pip install -i https://test.pypi.org/simple/ VIKONfrom1C-faridlesosibirsk
